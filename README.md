@@ -1,2 +1,2 @@
-# JScode
+# JSAlghoritm
 JS questions &amp;&amp; code
